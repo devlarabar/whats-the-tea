@@ -57,7 +57,7 @@ npm install
 npm run dev
 ```
 
-5. **Open Your Browser:**
+4. **Open Your Browser:**
 Visit `http://localhost:3000`.
 
 ## ‼️ Disclaimer
