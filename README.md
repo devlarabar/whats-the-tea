@@ -35,9 +35,6 @@
             <li>
                <strong>Ingredient Information:</strong> Explore detailed information about each herbal ingredient, including its benefits and brewing instructions.
             </li>
-            <li>
-               <strong>User-Friendly Interface:</strong> A clean and intuitive design makes *What's The Tea* accessible to users of all experience levels.
-            </li>
       </td>
    </tr>
 </table>
