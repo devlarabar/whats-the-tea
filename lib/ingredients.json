@@ -1,0 +1,83 @@
+[
+    {
+        "_id": {
+            "$oid": "6494658dc8f86650ff8a6276"
+        },
+        "name": "chamomile",
+        "nameScientific": "matricaria chamomilla",
+        "uses": [
+            "anxiety",
+            "indigestion",
+            "insomnia",
+            "nausea",
+            "flatulence",
+            "diarrhea"
+        ],
+        "sideEffects": [
+            "drowsiness"
+        ],
+        "interactions": [
+            "sedatives",
+            "blood thinners",
+            "antiplatelet drugs",
+            "aspirin",
+            "nsaid painkillers",
+            "ginkgo biloba",
+            "st. john's wort",
+            "valerian"
+        ],
+        "sources": [
+            "https://www.spandidos-publications.com/mmr/3/6/895"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "649371451e5b9c409eaece4b"
+        },
+        "name": "lavender",
+        "nameScientific": "lavandula angustifolia",
+        "uses": [
+            "anxiety",
+            "depression",
+            "stress"
+        ],
+        "sideEffects": [
+            "constipation",
+            "diarrhea",
+            "headache"
+        ],
+        "interactions": [
+            "sedatives",
+            "cns depressants"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "649468fec8f86650ff8a6277"
+        },
+        "name": "lemon balm",
+        "nameScientific": "melissa officinalis l.",
+        "uses": [
+            "anxiety",
+            "insomnia",
+            "antioxidant",
+            "cognitive improvement",
+            "improve digestion",
+            "menstrual cramps"
+        ],
+        "sideEffects": [
+            "nausea",
+            "dizziness",
+            "increased appetite",
+            "wheezing"
+        ],
+        "interactions": [
+            "sedatives",
+            "thyroid hormones"
+        ],
+        "sources": [
+            "https://www.medicalnewstoday.com/articles/lemon-balm-tea#risk-factors-and-side-effects",
+            "https://www.webmd.com/vitamins/ai/ingredientmono-437/lemon-balm"
+        ]
+    }
+]
